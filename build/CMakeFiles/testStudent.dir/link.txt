@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/testStudent.dir/src/main.cpp.o CMakeFiles/testStudent.dir/src/Student.cpp.o  -o testStudent test/libtestlib.a 

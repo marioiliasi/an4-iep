@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Student.h
+iostream
+-
+testl.h
+../include/testl.h
+
+../test/include/testl.h
+iostream
+-
+
+/home/mario/Desktop/iep/an4-iep/src/Student.cpp
+Student.h
+/home/mario/Desktop/iep/an4-iep/src/Student.h
+
+/home/mario/Desktop/iep/an4-iep/src/main.cpp
+Student.h
+/home/mario/Desktop/iep/an4-iep/src/Student.h
+

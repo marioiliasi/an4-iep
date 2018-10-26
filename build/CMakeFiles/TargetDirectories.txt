@@ -1,0 +1,6 @@
+/home/mario/Desktop/iep/an4-iep/build/CMakeFiles/rebuild_cache.dir
+/home/mario/Desktop/iep/an4-iep/build/CMakeFiles/testStudent.dir
+/home/mario/Desktop/iep/an4-iep/build/CMakeFiles/edit_cache.dir
+/home/mario/Desktop/iep/an4-iep/build/test/CMakeFiles/rebuild_cache.dir
+/home/mario/Desktop/iep/an4-iep/build/test/CMakeFiles/testlib.dir
+/home/mario/Desktop/iep/an4-iep/build/test/CMakeFiles/edit_cache.dir
